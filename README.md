@@ -2,6 +2,7 @@
 Bu proje, json-server ile oluşturulan sahte API altyapısını kullanarak verileri yöneten, Chart.js ve react-chartjs-2 ile gelişmiş istatistiksel grafikler sunan, yönetim süreçlerini kolaylaştıran modern ve işlevsel bir yönetim paneli web uygulamasıdır.
 
 ## Özellikler
+* Next.js altyapısı ile hızlı sayfa yüklemeleri ve optimize edilmiş performans
 * json-server altyapısı ile dinamik veri yönetimi ve CRUD işlemleri simülasyonu
 * Chart.js ve react-chartjs-2 ile verileri görselleştiren etkileşimli grafikler ve istatistik panelleri
 * react-toastify entegrasyonu sayesinde kullanıcı işlemlerinde anlık bildirimler ve geri bildirimler
@@ -9,6 +10,7 @@ Bu proje, json-server ile oluşturulan sahte API altyapısını kullanarak veril
 * Responsive ve modern arayüz tasarımı
 
 ## Kullanılan Teknolojiler
+* Next.js
 * JSON Server
 * Chart.js
 * React Chart.js 2
